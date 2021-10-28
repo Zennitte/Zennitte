@@ -6,7 +6,7 @@ Olá! Eu sou o Kauê Camargo
 - 📞 Discord: Zennitte#8786
 
 <div  align = "center">
-   <img width = "700px" height : "200px" src=https://64.media.tumblr.com/58ebebce1f2e3d93c5ed6b02da273b1b/tumblr_pdw5j0NhcX1so18vqo1_540.gif>
+   <img width = "800px" height : "200px" src=https://64.media.tumblr.com/58ebebce1f2e3d93c5ed6b02da273b1b/tumblr_pdw5j0NhcX1so18vqo1_540.gif>
 </div>
 <div align = "center">
   <a href = "https://beacons.ai/zennitte">
