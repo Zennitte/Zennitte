@@ -3,7 +3,11 @@ Olá! Eu sou o Kauê Camargo
 - 🔭 Hoje estou trabalhando com ReactJs
 - 🌱 Hoje estou estudando na Escola Senai De Informática
 - 😄 Pronomes: Ele/Dele
+- 📞 Discord: Zennitte#8786
 
+<div>
+   <img width = "100%" height : "279px" src=https://64.media.tumblr.com/58ebebce1f2e3d93c5ed6b02da273b1b/tumblr_pdw5j0NhcX1so18vqo1_540.gif>
+</div>
 <div align = "center">
   <a href = "https://beacons.ai/zennitte">
   <img height = "180em" width = "435" src="https://github-readme-stats.vercel.app/api?username=Zennitte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
