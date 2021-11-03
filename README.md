@@ -13,7 +13,7 @@ Olá! Eu sou o Kauê Camargo
   <img height = "180em" width = "435" src="https://github-readme-stats.vercel.app/api?username=Zennitte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height = "180em" width = "365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zennitte&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<p align = "center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=Zennitte&label=Profile%20views&color=blueviolet&style=flat" alt="Kauê Camargo"/>
 </p>
 <div style="display: inline_block"><br>
