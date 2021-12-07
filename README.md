@@ -1,6 +1,6 @@
 Olá! Eu sou o Kauê Camargo
 
-- 🔭 Hoje estou trabalhando com ReactNative
+- 🔭 Hoje estou trabalhando com React Native
 - 🌱 Hoje estou estudando na Escola Senai De Informática
 - 😄 Pronomes: Ele/Dele
 - 📞 Discord: Zennitte#8786
