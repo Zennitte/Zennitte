@@ -1,7 +1,7 @@
 Olá! Eu sou o Kauê Camargo
 
-- 🔭 Hoje estou trabalhando com NodeJs
-- 🌱 Hoje estou estudando na Escola Senai De Informática
+- 🔭 Hoje estou trabalhando com Java e ReactJs
+- 🌱 Hoje estou trabalhando na empresa 2RP Net
 - 😄 Pronomes: Ele/Dele
 - 📞 Discord: Zennitte#8786
 
