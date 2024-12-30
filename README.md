@@ -1,7 +1,7 @@
 Olá! Eu sou o Kauê Camargo
 
 - 🔭 Hoje estou trabalhando com Java e NextJs
-- 🌱 Hoje estou trabalhando na empresa 2RP Net
+- 🌱 Hoje estou trabalhando na empresa Mercado Livre
 - 😄 Pronomes: Ele/Dele
 - 📞 Discord: Zennitte#8786
 
